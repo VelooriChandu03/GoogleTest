@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Gemini Music - AI Powered Sounds",
+  "description": "A Spotify-inspired music experience powered by Gemini AI for discovery and personalization.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
